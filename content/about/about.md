@@ -1,7 +1,7 @@
 +++
 date = "2017-03-12T20:50:25+01:00"
 title = "about"
-draft = true
+draft = 0
 +++
 # [si-home](http://grav.s-fam.de/)
 
