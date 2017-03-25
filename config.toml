@@ -31,6 +31,7 @@ paginate = 10
 		
 		
 		# The icons will be shown if you enter your username "spf13"
+		hide  = true
 		twitter = ""
 		github = ""
 		gitlab = ""
