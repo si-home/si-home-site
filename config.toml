@@ -15,7 +15,7 @@ paginate = 10
 	description = "Describe your website"
 
 	# Format dates with Go's time formatting
-	date_format = "01/02/2006"
+	date_format = "02/01/2006"
 	printFormat = "02.01.2006"
 
 
